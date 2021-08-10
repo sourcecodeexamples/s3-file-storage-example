@@ -8,7 +8,7 @@
 		<version>2.3.7.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.javatechie</groupId>
+	<groupId>com.springboot</groupId>
 	<artifactId>file-storage-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>file-storage-service</name>
